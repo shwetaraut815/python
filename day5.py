@@ -13,5 +13,4 @@ print ('''helloo shweta how are you , "are you ok" na''' )
 
 print ("hello shama", 5, 6, "ttt", sep="_", end="   ---->  ")
 print ("hello rakhi")
- 
 
